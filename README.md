@@ -3,10 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-
 크롤링/맛집/사전 : http://infolim.site:5000<br>
 약국찾기 : http://infolim.site:8081<br>  
-회원가입/네이버쇼핑리스트 : http://infolim.site:8082<br>
+회원가입/쇼핑리스트 : http://infolim.site:8082<br>
 
 </div>  
 
