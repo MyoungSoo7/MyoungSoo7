@@ -14,6 +14,7 @@
 - 최저가 쇼핑 : http://infolim.site:8082<br>
 - 크롤링/맛집/사전 : http://infolim.site:5000<br>
 * 사이트설명 : https://shoplms.notion.site
+* 모니터링 : https://myoungsoo7.github.io/monitory/
 
 🌱 자격증<br>
 -  정보처리기사<br>
