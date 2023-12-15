@@ -6,7 +6,9 @@
 크롤링/맛집/사전 : http://infolim.site:5000<br>
 약국찾기 : http://infolim.site:8081<br>  
 회원가입/쇼핑리스트 : http://infolim.site:8082<br>
- 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
 
 </div>  
 
