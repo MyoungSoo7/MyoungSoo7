@@ -6,6 +6,7 @@
 크롤링/맛집/사전 : http://infolim.site:5000<br>
 약국찾기 : http://infolim.site:8081<br>  
 회원가입/쇼핑리스트 : http://infolim.site:8082<br>
+코딩테스트 :https://velog.io/@iamipro
 
 </div>  
 
