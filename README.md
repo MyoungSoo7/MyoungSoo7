@@ -5,14 +5,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 
 </div>  
-
-크롤링/맛집/사전 : http://infolim.site:5000<br>
-약국찾기 : http://infolim.site:8081<br>  
-회원가입/쇼핑리스트 : http://infolim.site:8082<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
-
+🔭 운영사이트
+- 크롤링/맛집/사전 : http://infolim.site:5000<br>
+- 약국찾기 : http://infolim.site:8081<br>  
+- 회원가입/쇼핑리스트 : http://infolim.site:8082<br>
 
 🌱 자격증<br>
 -  정보처리기사<br>
