@@ -12,6 +12,7 @@
 - 근처 약국찾기 : http://infolim.site:8081<br>  
 - 최저가 쇼핑 : http://infolim.site:8082<br>
 - 크롤링/맛집/사전 : http://infolim.site:5000<br>
+* 사이트설명 : https://shoplms.notion.site
 
 🌱 자격증<br>
 -  정보처리기사<br>
