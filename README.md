@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
 
 </div>  
-🌱 자격증 ...
--  정보처리기사
--  SQLD
--  AWS Cloud Practitioner
+🌱 자격증<br>
+-  정보처리기사<br>
+-  SQLD<br>
+-  AWS Cloud Practitioner<br>
 
 <!--
 **MyoungSoo7/MyoungSoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
