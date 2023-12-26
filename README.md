@@ -16,9 +16,9 @@
 * 모니터링 : https://myoungsoo7.github.io/monitory/
 
 🌱 자격증<br>
--  정보처리기사<br>
--  SQLD<br>
--  AWS Cloud Practitioner<br>
+-  정보처리기사(2019)<br>
+-  SQLD(2019)<br>
+-  AWS Cloud Practitioner(2023)<br>
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
