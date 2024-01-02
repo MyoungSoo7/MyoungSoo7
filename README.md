@@ -1,5 +1,4 @@
 <div align=center>
-
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
@@ -14,11 +13,6 @@
 - 크롤링/맛집/사전 : http://infolim.site:5000<br>
 * 사이트설명 : https://shoplms.notion.site
 * 모니터링 : https://myoungsoo7.github.io/monitory/
-
-🌱 자격증<br>
--  정보처리기사(2019)<br>
--  SQLD(2019)<br>
--  AWS Cloud Practitioner(2023)<br>
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
