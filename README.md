@@ -6,8 +6,8 @@
 </div>  
 
 🔭 운영사이트<br>
-- 근처 약국찾기 : http://lmshi.shop:8081<br>  
-- 크롤링/맛집/사전 : http://lmshi.shop:5000<br>
+- 근처 약국찾기 : http://www.lmshi.shop:8081<br>  
+- 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
 * 사이트설명 : https://shoplms.notion.site
 <!--
 * 모니터링 : https://myoungsoo7.github.io/monitory/
