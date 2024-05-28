@@ -6,7 +6,8 @@
 </div>  
 
 🔭 운영사이트<br>
-- 근처 약국찾기 : http://www.lmshi.shop:8081<br>  
+- 근처 약국찾기 : http://www.lmshi.shop:8081<br>
+- 네이버 쇼핑 : http://www.lmshi.shop:8083<br>
 - 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
 * 사이트설명 : https://shoplms.notion.site
 <!--
