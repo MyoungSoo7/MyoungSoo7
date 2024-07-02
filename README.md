@@ -15,6 +15,7 @@
 
 🔭 유용사이트<br>
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
+- 백엔드 개발자 로드맵 : https://roadmap.sh/backend
 - 네이버개발자 : https://developers.naver.com/apps
 - 카카오개발자 : https://developers.kakao.com/stats/app
 - 카카오우편 : https://postcode.map.daum.net/guide 
@@ -38,7 +39,7 @@
 - 인공신문 : https://www.aitimes.kr/
 - IT위키 : https://itwiki.kr/
 - okky : https://okky.kr/articles/1313138
-- 백엔드 개발자 로드맵 : https://roadmap.sh/backend
+
 
 🔭 코딩테스트<br>
 - leet : https://leetcode.com/
