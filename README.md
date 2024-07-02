@@ -14,6 +14,12 @@
 
 * 모니터링 : https://myoungsoo7.github.io/monitory/
 
+🔭 코딩테스트<br>
+- leet : https://leetcode.com/
+- 프로그래머스 : https://programmers.co.kr/
+- 백준코딩테스트 : https://www.acmicpc.net/
+- 코드업 : https://codeup.kr/
+
 🔭 유용사이트<br>
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
 - 백엔드 개발자 로드맵 : https://roadmap.sh/backend
@@ -49,11 +55,7 @@
 - okky : https://okky.kr/articles/1313138
 
 
-🔭 코딩테스트<br>
-- leet : https://leetcode.com/
-- 프로그래머스 : https://programmers.co.kr/
-- 백준코딩테스트 : https://www.acmicpc.net/
-- 코드업 : https://codeup.kr/
+
 
 
 <!--
