@@ -18,6 +18,7 @@
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
 - 백엔드 개발자 로드맵 : https://roadmap.sh/backend
 - 연령, 산업, 직군, 연차별 평균연봉 정리 : https://blog.greetinghr.com/for-hr-salary-example/
+- 임금직무 정보 시스템 : https://www.wage.go.kr/whome/index.do
 - 연봉협상 꿀팁 : https://www.jobindexworld.com/contents/view/1960
 - 네이버개발자 : https://developers.naver.com/apps
 - 카카오개발자 : https://developers.kakao.com/stats/app
