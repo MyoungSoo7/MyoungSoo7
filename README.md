@@ -39,10 +39,11 @@
 - 당근마켓 기술블로그 : https://medium.com/daangn
 - 토스 기술블로그 : https://toss.tech/tech
 - 뱅크샐러드 기술블로그 : https://blog.banksalad.com/tech/building-brand-new-home-3/
+- 리디 테크블로그 : https://ridicorp.com/story-category/tech-blog
 - zum 기술블로그 : https://zuminternet.github.io/
 - 바로고 기술블로그 :  https://blog.barogo.io/
 - 프로그래머스 : https://community.programmers.co.kr/lounge/1
-- 아이콘 : https://simpleicons.org/
+- 아이콘 : https://simpleicons.org/  https://simpleicons.org/
 - 인공신문 : https://www.aitimes.kr/
 - IT위키 : https://itwiki.kr/
 - okky : https://okky.kr/articles/1313138
