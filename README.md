@@ -21,6 +21,7 @@
 - ERD(draw.io) : https://app.diagrams.net/
 - Kotlin Play Ground : https://play.kotlinlang.org/
 - Build Software Better, replit : https://replit.com/
+- dev idx : https://idx.dev/#introduction
 - 우아한형제들 기술블로그 : https://techblog.woowahan.com/
 - 인공신문 : https://www.aitimes.kr/
 - okky : https://okky.kr/articles/1313138
