@@ -32,6 +32,7 @@
 - 토스 기술블로그 : https://toss.tech/tech
 - 뱅크샐러드 기술블로그 : https://blog.banksalad.com/tech/building-brand-new-home-3/
 - zum 기술블로그 : https://zuminternet.github.io/
+- 바로고 기술블로그 :  https://blog.barogo.io/
 - 프로그래머스 : https://community.programmers.co.kr/lounge/1
 - 아이콘 : https://simpleicons.org/
 - 인공신문 : https://www.aitimes.kr/
