@@ -19,14 +19,32 @@
 - 카카오개발자 : https://developers.kakao.com/stats/app
 - 카카오우편 : https://postcode.map.daum.net/guide 
 - 몽고 DB : https://account.mongodb.com/account/login
-- ERD(draw.io) : https://app.diagrams.net/
+- ERD : https://app.diagrams.net/   https://aquerytool.com/  https://go.gliffy.com/
 - Kotlin Play Ground : https://play.kotlinlang.org/
 - Build Software Better, replit : https://replit.com/
 - dev idx : https://idx.dev/#introduction
+- 네이버 d2 : https://d2.naver.com/home
+- 카카오 기술블로그 : https://tech.kakao.com/blog/
+- 라인 기술블로그 : https://engineering.linecorp.com/ko/blog
+- 쿠팡 기술블그 : https://medium.com/coupang-engineering/kr/home
 - 우아한형제들 기술블로그 : https://techblog.woowahan.com/
+- 당근마켓 기술블로그 : https://medium.com/daangn
+- 토스 기술블로그 : https://toss.tech/tech
 - 뱅크샐러드 기술블로그 : https://blog.banksalad.com/tech/building-brand-new-home-3/
+- zum 기술블로그 : https://zuminternet.github.io/
+- 프로그래머스 : https://community.programmers.co.kr/lounge/1
+- 아이콘 : https://simpleicons.org/
 - 인공신문 : https://www.aitimes.kr/
+- IT위키 : https://itwiki.kr/
 - okky : https://okky.kr/articles/1313138
+
+
+🔭 코딩테스트<br>
+- leet : https://leetcode.com/
+- 프로그래머스 : https://programmers.co.kr/
+- 백준코딩테스트 : https://www.acmicpc.net/
+- 코드업 : https://codeup.kr/
+- 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
 **MyoungSoo7/MyoungSoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
