@@ -49,6 +49,7 @@
 - 리디 테크블로그 : https://ridicorp.com/story-category/tech-blog
 - zum 기술블로그 : https://zuminternet.github.io/
 - 바로고 기술블로그 :  https://blog.barogo.io/
+- DB : http://www.gurubee.net/lecture/2377
 - 공공데이터 포털 : https://www.data.go.kr/bbs/dnb/selectDeveloperNetworkListView.do
 - 프로그래머스 : https://community.programmers.co.kr/lounge/1
 - 아이콘 : https://simpleicons.org/  https://simpleicons.org/
