@@ -25,6 +25,7 @@
 - 카카오우편 : https://postcode.map.daum.net/guide 
 - 몽고 DB : https://account.mongodb.com/account/login
 - ERD : https://app.diagrams.net/   https://aquerytool.com/  https://go.gliffy.com/
+- 머메이드 editor : https://mermaid.live/edit
 - Java Code Play :  https://ideone.com/
 - Kotlin Play Ground : https://play.kotlinlang.org/
 - Build Software Better, replit : https://replit.com/
