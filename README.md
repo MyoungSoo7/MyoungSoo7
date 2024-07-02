@@ -13,9 +13,17 @@
 
 * 모니터링 : https://myoungsoo7.github.io/monitory/
 
-🔭 커뮤니티<br>
-- https://www.aitimes.kr/
-- https://okky.kr/articles/1313138
+🔭 유용사이트<br>
+- Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
+- 네이버개발자 - https://developers.naver.com/apps
+- 카카오개발자 - https://developers.kakao.com/stats/app
+- 몽고 DB : https://account.mongodb.com/account/login
+- ERD(draw.io) : https://app.diagrams.net/
+- Kotlin Play Ground : https://play.kotlinlang.org/
+- Build Software Better, replit : https://replit.com/
+- 우아한형제들 기술블로그 : https://techblog.woowahan.com/
+- 인공신문 : https://www.aitimes.kr/
+- okky : https://okky.kr/articles/1313138
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
 **MyoungSoo7/MyoungSoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
