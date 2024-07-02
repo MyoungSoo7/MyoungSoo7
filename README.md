@@ -21,6 +21,7 @@
 - 임금직무 정보 시스템 : https://www.wage.go.kr/whome/index.do
 - 연봉협상 꿀팁 : https://www.jobindexworld.com/contents/view/1960
 - 네이버개발자 : https://developers.naver.com/apps
+- 네이버 클라우드 플랫폼 : https://auth.ncloud.com/login
 - 카카오개발자 : https://developers.kakao.com/stats/app
 - 카카오우편 : https://postcode.map.daum.net/guide 
 - 몽고 DB : https://account.mongodb.com/account/login
