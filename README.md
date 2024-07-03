@@ -46,6 +46,7 @@
 - 당근마켓 기술블로그 : https://medium.com/daangn
 - 토스 기술블로그 : https://toss.tech/tech
 - 뱅크샐러드 기술블로그 : https://blog.banksalad.com/tech/building-brand-new-home-3/
+- 리멤버 기술블로그 : https://blog.dramancompany.com/- 
 - 리디 테크블로그 : https://ridicorp.com/story-category/tech-blog
 - zum 기술블로그 : https://zuminternet.github.io/
 - 바로고 기술블로그 :  https://blog.barogo.io/
