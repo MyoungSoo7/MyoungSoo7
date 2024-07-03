@@ -51,9 +51,9 @@
 - 바로고 기술블로그 :  https://blog.barogo.io/
 - Oracle DB : http://www.gurubee.net/lecture/2377
 - 공공데이터 포털 : https://www.data.go.kr/bbs/dnb/selectDeveloperNetworkListView.do
-- 프로그래머스 : https://community.programmers.co.kr/lounge/1
-- 아이콘 : https://simpleicons.org/  https://simpleicons.org/
-- 인공신문 : https://www.aitimes.kr/
+- 프로그래머스 커뮤니티 : https://community.programmers.co.kr/lounge/1
+- 아이콘 : https://simpleicons.org/   
+- 인공지능신문 : https://www.aitimes.kr/
 - IT위키 : https://itwiki.kr/
 - okky : https://okky.kr/articles/1313138
 
