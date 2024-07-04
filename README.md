@@ -10,6 +10,7 @@
 - 네이버 쇼핑 : http://www.lmshi.shop:8083<br>
 - 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
 - imweb demo : https://iamipro.imweb.me/
+- chatgpt demo : https://myoungsoo-ai1.streamlit.app/
 * 사이트설명 : https://shoplms.notion.site
 
 * 모니터링 : https://myoungsoo7.github.io/monitory/
