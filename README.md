@@ -24,6 +24,9 @@
 🔭 유용사이트<br>
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
 - 백엔드 개발자 로드맵 : https://roadmap.sh/backend
+- 인공지능신문 : https://www.aitimes.kr/
+- 보안뉴스 : https://m.boannews.com/html/
+- IT위키 : https://itwiki.kr/
 - 평균연봉 : https://www.wanted.co.kr/salary
 - 연령, 산업, 직군, 연차별 평균연봉 정리 : https://blog.greetinghr.com/for-hr-salary-example/
 - 임금직무 정보 시스템 : https://www.wage.go.kr/whome/index.do
@@ -55,8 +58,6 @@
 - 공공데이터 포털 : https://www.data.go.kr/bbs/dnb/selectDeveloperNetworkListView.do
 - 프로그래머스 커뮤니티 : https://community.programmers.co.kr/lounge/1
 - 아이콘 : https://simpleicons.org/   
-- 인공지능신문 : https://www.aitimes.kr/
-- IT위키 : https://itwiki.kr/
 - okky : https://okky.kr/articles/1313138
 
 
