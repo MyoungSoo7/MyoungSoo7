@@ -7,13 +7,8 @@
 
 - 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/
 - chatgpt demo : https://myoungsoo-ai1.streamlit.app/- 
-- imweb demo : https://iamipro.imweb.me/
+- imweb demo : https://iamipro.imweb.me/  
 
-🔭 코딩테스트<br>
-- leet : https://leetcode.com/
-- 프로그래머스 : https://programmers.co.kr/
-- 백준코딩테스트 : https://www.acmicpc.net/
-- 코드업 : https://codeup.kr/
  
 <!--
 <div align=center>
