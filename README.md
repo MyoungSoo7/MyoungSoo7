@@ -1,4 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
+
 
 🔭 운영사이트<br>
 * 사이트설명 : https://shoplms.notion.site
