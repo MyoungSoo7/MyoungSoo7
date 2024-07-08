@@ -1,13 +1,13 @@
 🔭 운영사이트<br>
+* 사이트설명 : https://shoplms.notion.site
 - 근처 약국찾기 : http://www.lmshi.shop:8081<br>
 - 네이버 쇼핑 : http://www.lmshi.shop:8083<br>
 - 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
-- imweb demo : https://iamipro.imweb.me/
-- chatgpt demo : https://myoungsoo-ai1.streamlit.app/
-- 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/  
-* 사이트설명 : https://shoplms.notion.site
-
 * 모니터링 : https://myoungsoo7.github.io/monitory/
+
+- 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/
+- chatgpt demo : https://myoungsoo-ai1.streamlit.app/- 
+- imweb demo : https://iamipro.imweb.me/
 
 🔭 코딩테스트<br>
 - leet : https://leetcode.com/
