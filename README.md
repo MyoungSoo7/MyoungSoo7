@@ -1,8 +1,3 @@
-<div align=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-</div>  
-
 🔭 운영사이트<br>
 - 근처 약국찾기 : http://www.lmshi.shop:8081<br>
 - 네이버 쇼핑 : http://www.lmshi.shop:8083<br>
@@ -19,8 +14,13 @@
 - 프로그래머스 : https://programmers.co.kr/
 - 백준코딩테스트 : https://www.acmicpc.net/
 - 코드업 : https://codeup.kr/
-- 
+ 
 <!--
+<div align=center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+</div>  
+
 
 🔭 유용사이트<br>
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
