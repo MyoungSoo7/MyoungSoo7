@@ -1,8 +1,6 @@
 <div align=center>
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-
 </div>  
 
 🔭 운영사이트<br>
@@ -11,6 +9,7 @@
 - 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
 - imweb demo : https://iamipro.imweb.me/
 - chatgpt demo : https://myoungsoo-ai1.streamlit.app/
+- 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/  
 * 사이트설명 : https://shoplms.notion.site
 
 * 모니터링 : https://myoungsoo7.github.io/monitory/
@@ -20,6 +19,8 @@
 - 프로그래머스 : https://programmers.co.kr/
 - 백준코딩테스트 : https://www.acmicpc.net/
 - 코드업 : https://codeup.kr/
+- 
+<!--
 
 🔭 유용사이트<br>
 - Tiobe 프로그래밍 언어지수 : https://www.tiobe.com/tiobe-index/
@@ -61,10 +62,6 @@
 - okky : https://okky.kr/articles/1313138
 
 
-
-
-
-<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
 **MyoungSoo7/MyoungSoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![MyoungSoo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true&theme=dark) <br>   
