@@ -5,20 +5,15 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
-🔭 운영사이트<br>
-* 사이트설명 : https://shoplms.notion.site
+ 
+🌱 운영사이트<br>
 - 근처 약국찾기 : http://www.lmshi.shop:8081<br>
 - 네이버 쇼핑 : http://www.lmshi.shop:8083<br>
 - 크롤링/맛집/사전 : http://www.lmshi.shop:5000<br>
-* 모니터링 : https://myoungsoo7.github.io/monitory/
+💬 사이트설명 : https://shoplms.notion.site<br>
+🔭 모니터링 : https://myoungsoo7.github.io/monitory/ <br>
 
-- 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/
-- chatgpt demo : https://myoungsoo-ai1.streamlit.app/- 
-- imweb demo : https://iamipro.imweb.me/  
-
+👯 개인페이지 사이트모음 : https://myoungsoo7.github.io/MyPage/ <br>
  
 <!--
  
