@@ -1,5 +1,5 @@
-- 📫 개발 관련 사이트모음 : https://myoungsoo7.github.io/MyPage/ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
-- 📫 개발 사이트설명 : https://shoplms.notion.site <br>
+- ✨ 개발 관련 사이트모음 : https://myoungsoo7.github.io/MyPage/ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
+- ✨ 개발 사이트설명 : https://shoplms.notion.site <br>
 
 
  
