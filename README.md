@@ -1,7 +1,9 @@
 🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site ) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 
- 
+![git-wrapped-MyoungSoo7](https://github.com/user-attachments/assets/28ec89dd-ffa5-4213-8ef2-b9cc7ee9501c)
+![잔디 기부 캠페인 기부증](https://github.com/user-attachments/assets/04e31d48-5644-4c9e-addf-917212f2ffc8)
+
 <!--
 - 📫 네이버 쇼핑 : http://www.lmshi.shop:8083 
 - 😄 근처 약국찾기 : http://www.lmshi.shop:8081 <br>
