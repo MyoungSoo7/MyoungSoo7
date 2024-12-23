@@ -6,17 +6,17 @@
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br> 
 - ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
+![MyoungSoo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true&theme=dark) <br>   
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
 ![git-wrapped-MyoungSoo7](https://github.com/user-attachments/assets/28ec89dd-ffa5-4213-8ef2-b9cc7ee9501c)
 ![잔디 기부 캠페인 기부증](https://github.com/user-attachments/assets/04e31d48-5644-4c9e-addf-917212f2ffc8)
 
 <!--
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamipro)](https://solved.ac/iamipro)
-![MyoungSoo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true&theme=dark) <br>   
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
+
 
 
 💬 사이트설명 : https://shoplms.notion.site  
