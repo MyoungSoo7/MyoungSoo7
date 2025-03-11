@@ -8,7 +8,7 @@
 <!--
 - ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
 - 😄 근처 약국찾기 : http://www.lmshi.shop:8081 <br>
-
+https://careerly.co.kr/profiles/473285 https://www.linkedin.com/in/myoung-soo-lim-43963321a/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 
 
