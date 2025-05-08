@@ -3,13 +3,13 @@
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.shop:5000  <br>
 - 💬 SNS : http://www.lmshi.shop:8087 <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br> 
-- ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
+
 - 😄 근처 약국찾기 : http://www.lmshi.shop:8081 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 
 <!--
 
-
+- ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
 
 
 ![git-wrapped-MyoungSoo7](https://github.com/user-attachments/assets/28ec89dd-ffa5-4213-8ef2-b9cc7ee9501c)
