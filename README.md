@@ -1,4 +1,4 @@
-🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site ) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
+🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )   <br> 
 - 📫 네이버 쇼핑 : http://www.lmshi.shop:8083 <br>
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.shop:5000  <br>
 - 💬 SNS : http://www.lmshi.shop:8087 <br>
@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
 
 <!--
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
 
 
