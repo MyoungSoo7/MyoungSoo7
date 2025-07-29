@@ -4,11 +4,12 @@
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.site:5000  <br>
 - 💬 SNS : http://www.lmshi.site:8087 <br>
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
-- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br> 
+- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br> 
+[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
 
-[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7)    <br> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)  <br>
+
 
 
 <!--
