@@ -1,4 +1,5 @@
-🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )  <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" />  <br> 
+<img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> 
+🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )  <br> 
 - 📫 네이버 쇼핑 : http://www.lmshi.site:8083 <br>
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.site:5000  <br>
 - 💬 SNS : http://www.lmshi.site:8087 <br>
