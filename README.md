@@ -1,10 +1,11 @@
-<img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> 
+<img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )  <br> 
 - 📫 네이버 쇼핑 : http://www.lmshi.site:8083 <br>
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.site:5000  <br>
 - 💬 SNS : http://www.lmshi.site:8087 <br>
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
-- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br> 
+- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br>
 
 
@@ -12,6 +13,9 @@
 [![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7)
 
 <!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
 
