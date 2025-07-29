@@ -6,11 +6,10 @@
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br> 
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true&theme=radical)](https://github.com/MyoungSoo7)
 
-
-[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7)
 
 <!--
 
