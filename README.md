@@ -5,7 +5,7 @@
 - 💬 SNS : http://www.lmshi.site:8087 <br>
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br>
 
 
 
