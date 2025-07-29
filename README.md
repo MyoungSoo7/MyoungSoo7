@@ -9,11 +9,6 @@
 
 
 
-
- 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)
-
 [![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7)
 
 <!--
