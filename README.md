@@ -4,7 +4,6 @@
 [![Thomas jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasjang&show_icons=true)](https://github.com/MyoungSoo7)
 
  
-https://www.linkedin.com/in/axisj-thomasjang/
 
 [![Thomas jang's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=thomasjang)](https://github.com/thomasJang)
 
