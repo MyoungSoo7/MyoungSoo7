@@ -5,7 +5,7 @@
 
  
 
-[![Thomas jang's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=thomasjang)](https://github.com/thomasJang)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)
 
 
 🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )   <br> 
