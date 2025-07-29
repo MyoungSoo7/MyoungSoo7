@@ -1,12 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" />
  
 
-[![Thomas jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasjang&show_icons=true)](https://github.com/MyoungSoo7)
-
- 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)
-
 
 🌱 운영사이트 (개발 사이트설명 : https://shoplms.notion.site )   <br> 
 - 📫 네이버 쇼핑 : http://www.lmshi.site:8083 <br>
