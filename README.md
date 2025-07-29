@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br> 
 [![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=github-light)](https://git.io/streak-stats)    <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  <br>
 
 
 
