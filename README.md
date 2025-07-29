@@ -8,7 +8,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark)   <br> 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true&theme=radical)](https://github.com/MyoungSoo7)
+[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7)    <br> 
 
 
 <!--
