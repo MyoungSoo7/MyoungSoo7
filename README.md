@@ -6,15 +6,11 @@
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br> 
-[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  <br>
-
 
 
 <!--
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyoungSoo7&theme=dark)](https://git.io/streak-stats)
+[![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
+ 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - ✨ 맛집 검색(CI/CD) : http://lb-food-prod-234826311.ap-northeast-2.elb.amazonaws.com/
