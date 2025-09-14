@@ -9,8 +9,8 @@
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
-🌱 AI 사이트
-- 📫 일전관리 [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
+🌱 바이브코딩
+- 📫 일정관리 [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 
 
 <!--
