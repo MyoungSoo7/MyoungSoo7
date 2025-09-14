@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
 - 📫 네이버 쇼핑 : http://www.lmshi.site:8083 <br>
@@ -7,7 +7,6 @@
 - 💬 SNS : http://www.lmshi.site:8087 <br>
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
 🌱 바이브코딩
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
