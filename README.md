@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
 🌱 AI 사이트
-- 📫 일전관리 https://www.canva.com/ko_kr/ai-image-generator/
+- 📫 일전관리 [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 
 
 <!--
