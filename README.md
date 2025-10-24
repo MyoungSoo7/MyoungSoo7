@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
-- 📫 네이버 쇼핑 : http://www.lmshi.site:8083 <br>
+- 📫 네이버 쇼핑 : https://www.lmshi.site:8083 <br>
 - ⚡ 크롤링/맛집/사전 : http://www.lmshi.site:5000  <br>
 - 💬 SNS : http://www.lmshi.site:8087 <br>
 - 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
