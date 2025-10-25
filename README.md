@@ -3,9 +3,9 @@
 
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
 - 📫 네이버 쇼핑 : https://shopping.lmshi.site <br>
-- ⚡ 크롤링/맛집/사전 : http://www.lmshi.site:5000  <br>
-- 💬 SNS : http://www.lmshi.site:8087 <br>
-- 😄 근처 약국찾기 : http://www.lmshi.site:8081 <br>
+- ⚡ 크롤링/맛집/사전 : https://crawling.lmshi.site  <br>
+- 💬 SNS : https://sns.lmshi.site <br>
+- 😄 근처 약국찾기 : https://pharmacy.lmshi.site <br>
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
 
 🌱 바이브코딩
