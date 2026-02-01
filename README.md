@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
+<img width="1069" height="882" alt="image" src="https://github.com/user-attachments/assets/19ee1b6d-30b0-439e-bfbd-f988b23343ba" /><img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
 Backend / Solution Engineer  
@@ -10,14 +10,16 @@ Backend / Solution Engineer
 - ⚡ 크롤링/맛집/사전 : https://news.lmshi.site  <br>
 - 💬 SNS : https://sns.lmshi.site <br>
 - 😄 근처 약국찾기 : https://pharmacy.lmshi.site <br>
-- 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
-- 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
-- 📫 MBTI : https://iamipro7.my.canva.site/mbti
-- 📫 감사일기장 : https://iamipro7.my.canva.site/dagy8kksz6i
 - 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
 
 
 <!--
+
+- 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
+- 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
+- 📫 MBTI : https://iamipro7.my.canva.site/mbti
+- 📫 감사일기장 : https://iamipro7.my.canva.site/dagy8kksz6i
+
 [![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
  
 
