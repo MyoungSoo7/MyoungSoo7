@@ -1,6 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 
+Backend / Solution Engineer  
+- Spring 기반 백엔드 아키텍처 설계
+- 운영/확장/마이그레이션 관점의 설계 기록
+
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
 - 📫 네이버 쇼핑 : https://shopping.lmshi.site <br>
 - ⚡ 크롤링/맛집/사전 : https://news.lmshi.site  <br>
