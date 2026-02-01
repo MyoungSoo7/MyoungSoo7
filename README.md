@@ -1,10 +1,7 @@
-<img width="1069" height="882" alt="image" src="https://github.com/user-attachments/assets/19ee1b6d-30b0-439e-bfbd-f988b23343ba" /><img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
-
-Backend / Solution Engineer  
+Java Backend Engineer | Spring | Public SI | Legacy Migration
 - Spring 기반 백엔드 아키텍처 설계
 - 운영/확장/마이그레이션 관점의 설계 기록
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
 - 📫 네이버 쇼핑 : https://shopping.lmshi.site <br>
 - ⚡ 크롤링/맛집/사전 : https://news.lmshi.site  <br>
@@ -14,7 +11,7 @@ Backend / Solution Engineer
 
 
 <!--
-
+<img width="1069" height="882" alt="image" src="https://github.com/user-attachments/assets/19ee1b6d-30b0-439e-bfbd-f988b23343ba" /><img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 - 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
 - 📫 MBTI : https://iamipro7.my.canva.site/mbti
