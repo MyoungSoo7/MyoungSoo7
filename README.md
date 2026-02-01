@@ -10,13 +10,11 @@ Backend / Solution Engineer
 - ⚡ 크롤링/맛집/사전 : https://news.lmshi.site  <br>
 - 💬 SNS : https://sns.lmshi.site <br>
 - 😄 근처 약국찾기 : https://pharmacy.lmshi.site <br>
-- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
-
-🌱 바이브코딩
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 - 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
 - 📫 MBTI : https://iamipro7.my.canva.site/mbti
 - 📫 감사일기장 : https://iamipro7.my.canva.site/dagy8kksz6i
+- 🔭 모니터링 : https://myoungsoo7.github.io/monitory/<br>  
 
 
 <!--
