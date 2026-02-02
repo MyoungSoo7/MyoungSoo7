@@ -1,9 +1,21 @@
  <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 Java Backend Engineer <br>
 ## Who I Am
-- Java / Spring 기반 백엔
-- Spring 기반 백엔드 아키텍처 설계<br>
+- 공공 SI 환경에서 Java / Spring 기반 백엔드 개발 경험<br>
+- Spring4/Java8 레거시 구조 분석 및 Spring Boot 기반 전환 경험<br>
 - 운영/확장/마이그레이션 관점의 설계 기록 <br>
+
+## External API Integration Experience
+- 카카오 지도/맛집 API 연동 (위치 기반 검색 및 데이터 정규화)
+- 네이버 쇼핑 API 연동 (상품 수집, 호출 제한 및 응답 구조 대응)
+- 사방넷 연동 경험 (외부 채널 상품/주문 데이터 동기화)
+- 외부 API 장애 및 응답 오류를 고려한 예외 처리 및 재시도 설계
+
+- ## Authentication & Integration
+- AnyID 기반 SSO 연동 경험
+- 외부 인증 시스템과 내부 인증 구조 분리 설계
+- 인증 실패/세션 만료/리다이렉션 흐름 제어
+- 공공 SI 환경에서의 인증·보안 요구사항 대응
 
 ## What I Do Well
 - **레거시 구조 해석 및 점진적 마이그레이션**
