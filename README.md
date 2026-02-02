@@ -16,6 +16,12 @@
 - 인증 실패/세션 만료/리다이렉션 흐름 제어
 - 공공 SI 환경에서의 인증·보안 요구사항 대응
 
+## Architecture Design Experience
+- 전통적인 Layered Architecture 기반 서비스 구조 설계 경험
+- 도메인/비즈니스 로직 보호를 위한 Hexagonal Architecture 적용 경험
+- 외부 API, 인증 시스템을 Adapter로 분리하여 핵심 도메인 의존성 최소화
+- 인증/연동/인프라 변경 시 서비스 영향 최소화를 위한 구조 설계
+
 ## What I Do Well
 - **레거시 구조 해석 및 점진적 마이그레이션**
 - **Spring Security 기반 인증·인가 설계**
