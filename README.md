@@ -1,7 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
 Java Backend Engineer | Spring | Public SI | Legacy Migration<br>
 - Spring 기반 백엔드 아키텍처 설계<br>
-- 공공 SI 프로젝트에서 설계·개발·운영 리스크를 함께 책임
 - 운영/확장/마이그레이션 관점의 설계 기록 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
