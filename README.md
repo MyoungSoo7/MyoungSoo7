@@ -1,8 +1,31 @@
  <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
-Java Backend Engineer | Spring | Public SI | Legacy Migration<br>
+Java Backend Engineer <br>
+## Who I Am
+- Java / Spring 기반 백엔
 - Spring 기반 백엔드 아키텍처 설계<br>
 - 운영/확장/마이그레이션 관점의 설계 기록 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungSoo7&layout=compact&theme=dark) <br>
+
+## What I Do Well
+- **레거시 구조 해석 및 점진적 마이그레이션**
+- **Spring Security 기반 인증·인가 설계**
+- **운영 환경 기준의 예외 처리 / 트랜잭션 설계**
+- “동작하는 코드”보다 **“운영 가능한 코드”를 지향**
+
+## Tech Stack
+- **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
+- **Infra/DevOps**: Docker, CI/CD, AWS(ECS/Fargate)
+- **Data**: PostgreSQL, Redis
+- **Tools**: Git, IntelliJ IDEA
+
+## Representative Projects
+아래 pinned repository는 실제 실무에서 자주 발생하는 문제를  
+**어떤 선택으로 해결했는지**에 초점을 맞춰 정리했습니다.
+
+- Legacy Migration (Spring4 → Boot)
+- 인증/인가 구조 설계
+- 운영 장애 및 예외 처리 패턴
+- 배치/스케줄링 및 동시성 이슈
+  
 🌱 개발 사이트 설명 : https://shoplms.notion.site  <br> 
 - 📫 네이버 쇼핑 : https://shopping.lmshi.site <br>
 - ⚡ 크롤링/맛집/사전 : https://news.lmshi.site  <br>
@@ -12,7 +35,7 @@ Java Backend Engineer | Spring | Public SI | Legacy Migration<br>
 
 
 <!--
-
+| Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 - 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
 - 📫 MBTI : https://iamipro7.my.canva.site/mbti
