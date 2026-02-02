@@ -1,5 +1,3 @@
- <img src="https://komarev.com/ghpvc/?username=MyoungSoo7&label=Profile%20views&color=0e75b6&style=flat" alt="MyoungSoo7" /> <br>
-Java Backend Engineer <br>
 ## Who I Am
 - 공공 SI 환경에서 Java / Spring 기반 백엔드 개발 경험<br>
 - Spring4/Java8 레거시 구조 분석 및 Spring Boot 기반 전환 경험<br>
