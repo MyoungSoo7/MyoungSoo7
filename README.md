@@ -9,7 +9,7 @@
 - 사방넷 연동 경험 (외부 채널 상품/주문 데이터 동기화)
 - 외부 API 장애, 호출 제한, 응답 포맷 변경을 고려한 **운영 중심 연동 구조 설계**
 
-- ## Authentication & Integration
+## Authentication & Integration
 - AnyID 기반 SSO 연동 경험
 - 카카오 OAuth 인증 연동 경험 (인가 코드 기반 인증 흐름)
 - 외부 인증 시스템과 내부 인증 구조 분리 설계
