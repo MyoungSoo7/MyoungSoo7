@@ -31,7 +31,7 @@
 ## Tech Stack
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
 - **Infra/DevOps**: Docker, CI/CD, AWS(ECS/Fargate)
-- **Data**: PostgreSQL, Redis
+- **Data**: Oracle, MySQL, MariaDB, PostgreSQL, Redis
 - **Tools**: Git, IntelliJ IDEA
 
 ## Representative Projects
