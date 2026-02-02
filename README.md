@@ -3,30 +3,29 @@
 - “동작하는 코드”보다 **“운영 가능한 구조”**를 기준으로 설계합니다.
 
 ## Who I Am
-- 공공 / 이커머스 SI 환경에서 Java · Spring 기반 백엔드 개발 경험
+- 공공·이커머스 SI 환경에서 운영 안정성·인증/연동·레거시 전환을 중심으로 일해온 Java 백엔드 엔지니어입니다.
 - Spring4 / Java8 레거시 구조 분석 및 Spring Boot 기반 점진적 전환 경험
-- 운영·확장·마이그레이션 관점의 설계 및 개선 기록
  
 ## Core Experience
-- External API: 카카오 지도/맛집, 네이버 쇼핑, 사방넷 연동 → 호출 제한, 장애, 응답 포맷 변경을 고려한 운영 중심 연동 구조 설계
-- Authentication: AnyID SSO, Kakao OAuth 인증 흐름 설계 → 외부 인증 시스템과 내부 인증 구조 분리, 세션/리다이렉션 제어
-- rchitecture: Layered Architecture 기반 설계 + 외부 의존성 증가에 따른 Hexagonal Architecture 적용 경험
+- External API: 카카오 지도/맛집, 네이버 쇼핑, 사방넷 → 호출 제한·장애·응답 변경을 고려한 운영 중심 연동 구조
+- Authentication: AnyID SSO, Kakao OAuth 인증 흐름 설계 → 인증 흐름 설계, 내부/외부 인증 분리, 세션·리다이렉션 제어
+- Architecture: Layered → Hexagonal → 외부 의존성 증가에 따른 Adapter 분리
  
 ## What I Do Well
 - **레거시 구조 해석 및 점진적 마이그레이션**
 - **Spring Security 기반 인증·인가 설계**
 - **운영 환경 기준의 예외 처리 / 트랜잭션 설계**
-- “기능 구현”보다 운영 리스크 최소화를 우선
+- 기능 구현보다 운영 리스크 최소화와 변경 용이성을 우선
 
 ## Tech Stack
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
 - **Infra/DevOps**: Docker, CI/CD, AWS(ECS/Fargate)
-- **Data**: Oracle, MySQL, MariaDB, PostgreSQL, Redis
+- **Data**: Oracle, MySQL/MariaDB, PostgreSQL, Redis
 - **Tools**: Git, IntelliJ IDEA
 
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다.
-👉 https://shoplms.notion.site
+👉 면접 전 확인 권장: https://shoplms.notion.site
 - 📫 네이버 쇼핑 :[ https://shopping.lmshi.site <br>](https://shopping.lmshi.site)
 - ⚡ 크롤링/맛집/사전 :[ https://news.lmshi.site  <br>](https://shopping.lmshi.site)
 - 💬 SNS : [https://sns.lmshi.site <br>](https://sns.lmshi.site)
