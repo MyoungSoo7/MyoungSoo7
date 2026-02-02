@@ -1,5 +1,5 @@
 ## Who I Am
-- 공공 SI 환경에서 Java / Spring 기반 백엔드 개발 경험<br>
+- 공공/이커머스 SI 환경에서 Java / Spring 기반 백엔드 개발 경험<br>
 - Spring4/Java8 레거시 구조 분석 및 Spring Boot 기반 전환 경험<br>
 - 운영/확장/마이그레이션 관점의 설계 기록 <br>
 
