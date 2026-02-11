@@ -1,21 +1,22 @@
 ## Java Backend Engineer | Public SI · E-Commerce
-- 공공·이커머스 SI 환경에서 운영 안정성, 인증/연동, 레거시 전환을 중심으로 일해온 Java 백엔드 개발자입니다.
-- “동작하는 코드”보다 **“운영 가능한 구조”**를 기준으로 설계합니다.
+- 공공·이커머스 SI 환경에서 운영 안정성, 인증·연동, 레거시 전환을 중심으로 시스템을 설계해온 Java 백엔드 엔지니어입니다.
+- 기능 구현보다 운영 리스크와 변경 비용을 먼저 계산합니다.
 
-## Who I Am
-- 공공·이커머스 SI 환경에서 운영 안정성·인증/연동·레거시 전환을 중심으로 일해온 Java 백엔드 엔지니어입니다.
-- Spring4 / Java8 레거시 구조 분석 및 Spring Boot 기반 점진적 전환 경험
+## What I Deliver
+- 외부 API 장애·호출 제한을 고려한 운영 중심 연동 구조 설계
+- AnyID SSO / OAuth 인증 흐름 설계 및 내부·외부 인증 분리
+- 트랜잭션·예외 전략 표준화 → 장애 재현 및 롤백 가능 구조 구축
  
 ## Core Experience
 - External API: 카카오 지도/맛집, 네이버 쇼핑, 사방넷 → 호출 제한·장애·응답 변경을 고려한 운영 중심 연동 구조
 - Authentication: AnyID SSO, Kakao OAuth 인증 흐름 설계 → 인증 흐름 설계, 내부/외부 인증 분리, 세션·리다이렉션 제어
 - Architecture: Layered → Hexagonal → 외부 의존성 증가에 따른 Adapter 분리
  
-## What I Do Well
-- **레거시 구조 해석 및 점진적 마이그레이션**
-- **Spring Security 기반 인증·인가 설계**
-- **운영 환경 기준의 예외 처리 / 트랜잭션 설계**
-- 기능 구현보다 운영 리스크 최소화와 변경 용이성을 우선
+## Architecture Focus
+- **Layered → Hexagonal 전환 경험**
+- **외부 의존성 증가에 따른 Adapter 분리**
+- **운영 로그·에러 흐름 표준화**
+- 변경 비용 최소화를 기준으로 패키지 구조 설계선
 
 ## Tech Stack
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
@@ -31,7 +32,7 @@
 - 😄 근처 약국찾기 : [https://pharmacy.lmshi.site <br>](https://pharmacy.lmshi.site)
 - 🔭 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
 
-
+These repositories demonstrate authentication, settlement domain modeling, API integration, and operational design in SI environments.
 <!--
 | Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
