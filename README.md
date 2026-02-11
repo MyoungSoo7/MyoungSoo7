@@ -10,13 +10,7 @@
 ## Core Experience
 - External API: 카카오 지도/맛집, 네이버 쇼핑, 사방넷 → 호출 제한·장애·응답 변경을 고려한 운영 중심 연동 구조
 - Authentication: AnyID SSO, Kakao OAuth 인증 흐름 설계 → 인증 흐름 설계, 내부/외부 인증 분리, 세션·리다이렉션 제어
-- Architecture: Layered → Hexagonal → 외부 의존성 증가에 따른 Adapter 분리
- 
-## Architecture Focus
-- **Layered → Hexagonal 전환 경험**
-- **외부 의존성 증가에 따른 Adapter 분리**
-- **운영 로그·에러 흐름 표준화**
-- 변경 비용 최소화를 기준으로 패키지 구조 설계선
+- Architecture: Layered → Hexagonal → 외부 의존성 증가에 따른 Adapter 분리 
 
 ## Tech Stack
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
