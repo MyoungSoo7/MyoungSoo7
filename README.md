@@ -14,7 +14,7 @@
 
 ## Tech Stack
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
-- **Infra/DevOps**: Docker, CI/CD, AWS(ECS/Fargate)
+- **Infra/DevOps**: Docker, CI/CD, AWS, Jenkins
 - **Data**: Oracle, MySQL/MariaDB, PostgreSQL, Redis
 - **Tools**: IntelliJ IDEA
 
