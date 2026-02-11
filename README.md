@@ -16,7 +16,7 @@
 - **Backend**: Java, Spring, Spring Boot, Spring Security, JPA
 - **Infra/DevOps**: Docker, CI/CD, AWS(ECS/Fargate)
 - **Data**: Oracle, MySQL/MariaDB, PostgreSQL, Redis
-- **Tools**: Git, IntelliJ IDEA
+- **Tools**: IntelliJ IDEA
 
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. (https://shoplms.notion.site)
