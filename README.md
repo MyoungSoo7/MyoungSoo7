@@ -26,7 +26,7 @@
 - 😄 근처 약국찾기 : [https://pharmacy.lmshi.site <br>](https://pharmacy.lmshi.site)
 - 🔭 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
 
-These repositories demonstrate authentication, settlement domain modeling, API integration, and operational design in SI environments.
+ 
 <!--
 | Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
