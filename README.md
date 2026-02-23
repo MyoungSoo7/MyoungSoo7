@@ -1,3 +1,19 @@
+## Representative Projects  
+📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. (https://shoplms.notion.site)
+- 📫 네이버 쇼핑 :[ https://shopping.lmshi.site <br>](https://shopping.lmshi.site)
+- ⚡ 크롤링/맛집/사전 :[ https://news.lmshi.site  <br>](https://shopping.lmshi.site)
+- 💬 SNS : [https://sns.lmshi.site <br>](https://sns.lmshi.site)
+- 😄 근처 약국찾기 : [https://pharmacy.lmshi.site <br>](https://pharmacy.lmshi.site)
+- 🔭 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
+
+ 
+<!--
+| Spring | Public SI | Legacy Migration
+- 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
+- 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
+- 📫 MBTI : https://iamipro7.my.canva.site/mbti
+- 📫 감사일기장 : https://iamipro7.my.canva.site/dagy8kksz6i
+
 ## Java Backend Engineer | Public SI · E-Commerce
 - 공공·이커머스 SI 환경에서 운영 안정성, 인증·연동을 중심으로 시스템을 설계해온 Java 백엔드 엔지니어입니다.
 - 기능 구현보다 운영 리스크와 변경 비용을 먼저 계산합니다.
@@ -17,22 +33,6 @@
 - **Infra/DevOps**: Docker, CI/CD, AWS, Jenkins
 - **Data**: Oracle, MySQL/MariaDB, PostgreSQL, Redis
 - **Tools**: IntelliJ IDEA
-
-## Representative Projects  
-📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. (https://shoplms.notion.site)
-- 📫 네이버 쇼핑 :[ https://shopping.lmshi.site <br>](https://shopping.lmshi.site)
-- ⚡ 크롤링/맛집/사전 :[ https://news.lmshi.site  <br>](https://shopping.lmshi.site)
-- 💬 SNS : [https://sns.lmshi.site <br>](https://sns.lmshi.site)
-- 😄 근처 약국찾기 : [https://pharmacy.lmshi.site <br>](https://pharmacy.lmshi.site)
-- 🔭 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
-
- 
-<!--
-| Spring | Public SI | Legacy Migration
-- 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
-- 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
-- 📫 MBTI : https://iamipro7.my.canva.site/mbti
-- 📫 감사일기장 : https://iamipro7.my.canva.site/dagy8kksz6i
 
 [![MyoungSoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSoo7&show_icons=true)](https://github.com/MyoungSoo7) <br>
  
