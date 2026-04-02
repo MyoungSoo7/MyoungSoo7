@@ -1,6 +1,6 @@
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. [ https://shoplms.notion.site  ]
-- ⚡ 청각재활훈련시스템 : [ https://eln.lmshi.site ] (https://eln.lmshi.site) <br>
+- ⚡ 청각재활훈련시스템 : [ https://eln.lmshi.site <br>](https://shopping.lmshi.site)
 - 📫 네이버 쇼핑 :[ https://shopping.lmshi.site <br>](https://shopping.lmshi.site)
 - ⚡ 크롤링/맛집/사전 :[ https://news.lmshi.site  <br>](https://news.lmshi.site)
 - 💬 SNS : [https://sns.lmshi.site <br>](https://sns.lmshi.site)
