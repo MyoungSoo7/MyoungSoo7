@@ -9,9 +9,6 @@
 
  
 <!--
-
-
-
 | Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 - 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
