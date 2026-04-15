@@ -1,6 +1,6 @@
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. [ https://shoplms.notion.site  /  ]
-- 청각재활훈련시스템  : [ https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)  
+- 정산시스템  : [ https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)  
 - 청각재활훈련시스템  : [ https://eln.lemuel.co.kr <br>](https://eln.lemuel.co.kr)
 - 네이버 쇼핑 :[ https://lowshopping.lemuel.co.kr <br>](https://lowshopping.lemuel.co.kr)
 - 크롤링/맛집/사전 :[ https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
