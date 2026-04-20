@@ -8,8 +8,18 @@
 - 근처 약국찾기 : [https://pharmacy.lemuel.co.kr <br>](https://pharmacy.lemuel.co.kr)
 - 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
 
+📘 진행중
+- 코테  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
+- sql  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
+- goods  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
+- fashion  : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
+- javis  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
+- livecommerce : [ https://live.lemuel.co.kr <br>](https://live.lemuel.co.kr)  
  
 <!--
+
+
+
 | Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
 - 📫 자리배치 : https://iamipro7.my.canva.site/dagy8nj09sg
