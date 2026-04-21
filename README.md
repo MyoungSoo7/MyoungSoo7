@@ -13,7 +13,7 @@
 - 코테공부  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
 - sql공부  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
 - 굿즈뽑기  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
-- fashion  : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
+- AI 기반 패션 디자이너-클라이언트-생산업체 매칭 플랫폼 : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
 - 비서  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
 - livecommerce : [ https://live.lemuel.co.kr <br>](https://live.lemuel.co.kr)  
  
