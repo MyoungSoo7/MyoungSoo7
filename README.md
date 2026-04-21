@@ -1,7 +1,7 @@
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. [ https://shoplms.notion.site  /  ]
 - 정산 : [ https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)
-- 검색시스템 : [ https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
+- 검색 : [ https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
 - 청각재활훈련 : [ https://eln.lemuel.co.kr <br>](https://eln.lemuel.co.kr)
 - SNS : [https://sns.lemuel.co.kr <br>](https://sns.lemuel.co.kr)
 - 크롤링/맛집/사전 :[ https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
@@ -10,11 +10,11 @@
 - 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
 
 📘 진행중
-- 코테  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
-- sql  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
-- goods  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
+- 코테공부  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
+- sql공부  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
+- 온라인상품  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
 - fashion  : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
-- javis  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
+- 비서  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
 - livecommerce : [ https://live.lemuel.co.kr <br>](https://live.lemuel.co.kr)  
  
 <!--
