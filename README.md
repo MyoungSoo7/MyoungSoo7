@@ -12,7 +12,7 @@
 📘 진행중
 - 코테공부  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
 - sql공부  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
-- 온라인상품  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
+- 굿즈뽑기  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
 - fashion  : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
 - 비서  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
 - livecommerce : [ https://live.lemuel.co.kr <br>](https://live.lemuel.co.kr)  
