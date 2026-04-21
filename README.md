@@ -1,7 +1,7 @@
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. [ https://shoplms.notion.site  /  ]
 - 정산 : [ https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)
-- 검색 : [ https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
+- 검색AI : [ https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
 - 청각재활훈련 : [ https://eln.lemuel.co.kr <br>](https://eln.lemuel.co.kr)
 - SNS : [https://sns.lemuel.co.kr <br>](https://sns.lemuel.co.kr)
 - 크롤링/맛집/사전 :[ https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
