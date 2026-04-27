@@ -6,17 +6,18 @@
 - SNS : [https://sns.lemuel.co.kr <br>](https://sns.lemuel.co.kr)
 - 크롤링/맛집/사전 :[ https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
 - 약국찾기(성북구만) : [https://pharmacy.lemuel.co.kr <br>](https://pharmacy.lemuel.co.kr)
-- 네이버쇼핑 : [ https://lowshopping.lemuel.co.kr <br>](https://lowshopping.lemuel.co.kr) 
-- 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
- 
-<!--
-
+- 네이버쇼핑 : [ https://lowshopping.lemuel.co.kr <br>](https://lowshopping.lemuel.co.kr)
 - 코테공부  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
 - sql공부  : [ https://database.lemuel.co.kr <br>](https://database.lemuel.co.kr)  
 - 굿즈뽑기  : [ https://goods.lemuel.co.kr <br>](https://goods.lemuel.co.kr)  
 - AI 기반 패션 디자이너-클라이언트-생산업체 매칭 플랫폼 : [ https://fashion.lemuel.co.kr <br>](https://fashion.lemuel.co.kr)  
 - livecommerce : [ https://live.lemuel.co.kr <br>](https://live.lemuel.co.kr)
 - 비서  : [ https://jabis.lemuel.co.kr <br>](https://jabis.lemuel.co.kr)
+- 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
+ 
+<!--
+
+
 
 | Spring | Public SI | Legacy Migration
 - 📫 일정관리 : [https://www.canva.com/ko_kr/ai-image-generator/](https://iamipro7.my.canva.site/tailwind-css)
