@@ -1,14 +1,13 @@
 ## Representative Projects  
 📘 상세 설계·구현 설명은 Notion 포트폴리오에 정리되어 있습니다. [ https://shoplms.notion.site  ]
-- 정산 : [ https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)
-- 검색AI : [ https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
-- 청각재활훈련 : [ https://eln.lemuel.co.kr <br>](https://eln.lemuel.co.kr)
+- 정산 : [https://jen.lemuel.co.kr <br>](https://jen.lemuel.co.kr)
+- 검색AI : [https://chat.lemuel.co.kr <br>](https://chat.lemuel.co.kr)
+- 청각재활훈련 : [https://eln.lemuel.co.kr <br>](https://eln.lemuel.co.kr)
 - SNS : [https://sns.lemuel.co.kr <br>](https://sns.lemuel.co.kr)
-- 크롤링/맛집/사전 :[ https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
+- 크롤링/맛집/사전 :[https://news.lemuel.co.kr  <br>](https://news.lemuel.co.kr)
 - 약국찾기(성북구만) : [https://pharmacy.lemuel.co.kr <br>](https://pharmacy.lemuel.co.kr)
-- 네이버쇼핑 : [ https://lowshopping.lemuel.co.kr <br>](https://lowshopping.lemuel.co.kr)
-
-- 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/) 
+- 네이버쇼핑 : [https://lowshopping.lemuel.co.kr <br>](https://lowshopping.lemuel.co.kr)
+- 모니터링 : [https://myoungsoo7.github.io/monitory/<br> ](https://myoungsoo7.github.io/monitory/)
  
 <!--
 - 코테공부  : [ https://codingtest.lemuel.co.kr <br>](https://codingtest.lemuel.co.kr)  
