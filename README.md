@@ -9,7 +9,7 @@
 **DB**: PostgreSQL · Redis · MySQL  
 **Monitoring**: Prometheus · Grafana · Micrometer  
 
-## 🔥 주요 프로젝트
+## 🔥 주요 프로젝트 ( https://shoplms.notion.site 참고)
 
 | 프로젝트 | 설명 | 기술 | 링크 |
 |---------|------|------|------|
