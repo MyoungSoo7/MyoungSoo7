@@ -23,7 +23,4 @@
 2대 홈서버 + K3s 클러스터로 15개 서비스 운영 중  
 Cloudflare Tunnel · Docker 35+ 컨테이너 · Uptime Kuma 모니터링
 
-## 📫 연락처
 
-- 블로그: [iamipro.tistory.com](https://iamipro.tistory.com)
-- GitHub: [@MyoungSoo7](https://github.com/MyoungSoo7)
