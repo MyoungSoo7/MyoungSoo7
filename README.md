@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes)](https://skillicons.dev)
 ## 🔥 주요 프로젝트
 
 | 프로젝트 | 설명 | 기술 | 링크 |
