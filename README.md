@@ -11,7 +11,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square) <br>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes)](https://skillicons.dev)
 ## 🔥 주요 프로젝트
 
