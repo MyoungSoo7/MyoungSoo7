@@ -7,11 +7,6 @@
 **Frontend**: Next.js · React · TypeScript  
 **DB**: PostgreSQL · Redis · MySQL  
 **Monitoring**: Prometheus · Grafana · Micrometer  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square) <br>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes)](https://skillicons.dev)
 ## 🔥 주요 프로젝트
 
@@ -26,4 +21,4 @@
 2대 우분투 홈서버 + AWS LightSail + K3s 클러스터로 15개 서비스 운영 중  
 Cloudflare Tunnel · Docker 35+ 컨테이너 · Uptime Kuma 모니터링
 
-
+ 
