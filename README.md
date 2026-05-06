@@ -1,17 +1,17 @@
 # 안녕하세요, Java Backend Engineer 입니다 👋
 
 ## 🛠 기술 스택
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 **Backend**: Java 25 · Spring Boot 4 · JPA/Hibernate · Kafka · Elasticsearch  
 **Architecture**: Hexagonal · MSA · Event-Driven · DDD  
 **Infra**: Docker · K3s · Cloudflare Tunnel · GitHub Actions  
 **Frontend**: Next.js · React · TypeScript  
 **DB**: PostgreSQL · Redis · MySQL  
 **Monitoring**: Prometheus · Grafana · Micrometer  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 
 ## 🔥 주요 프로젝트
 
