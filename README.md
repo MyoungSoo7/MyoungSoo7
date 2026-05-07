@@ -13,8 +13,8 @@
 | 프로젝트 | 설명 | 기술 | 링크 |
 |---------|------|------|------|
 | **Settlement MSA** | 이커머스 정산 플랫폼 (MSA 4모듈) | Spring Boot 4 + Kafka + ES | [jen.lemuel.co.kr](https://jen.lemuel.co.kr) |
-| **AI 검색** | Spring AI + Gemini RAG | Spring Boot 4 + Next.js | [chat.lemuel.co.kr](https://chat.lemuel.co.kr) |
-| **ASAT** | 청각 재활 훈련 시스템 | Spring Boot 4 + Web Audio API | [eln.lemuel.co.kr](https://eln.lemuel.co.kr) |
+| **AI 검색** | Spring AI 기반 자연어 상품 검색 및 RAG 시스템 | Spring Boot 4 + Next.js | [chat.lemuel.co.kr](https://chat.lemuel.co.kr) |
+| **ASAT** | Web Audio API 기반 적응형 청각 훈련 플랫폼 | Spring Boot 4 + Web Audio API | [eln.lemuel.co.kr](https://eln.lemuel.co.kr) |
 
 ## 📊 인프라
 
