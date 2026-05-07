@@ -18,7 +18,7 @@
 
 ## 📊 인프라
 
-2대 우분투 홈서버 + AWS LightSail + K3s 클러스터로 15개 서비스 운영 중  
+2대 우분투 홈서버 + AWS LightSail + K3s 클러스터로 서비스 운영 중  
 Cloudflare Tunnel · Docker 35+ 컨테이너 · Uptime Kuma 모니터링
 
  
