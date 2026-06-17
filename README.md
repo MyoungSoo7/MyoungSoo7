@@ -1,7 +1,7 @@
 # 안녕하세요, Java Backend Engineer 입니다 👋
 
 ## 🛠 기술 스택
-**Backend**: Java 25 · Spring Boot 4 · JPA/Hibernate · Kafka · Elasticsearch  
+**Backend**: Java · Spring Boot · Kotlin · JPA/Hibernate · Kafka · Elasticsearch  
 **Architecture**: Hexagonal · MSA · Event-Driven · DDD  
 **Infra**: Docker · K3s · Cloudflare Tunnel · GitHub Actions  
 **Frontend**: Next.js · React · TypeScript  
