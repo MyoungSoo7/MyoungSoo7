@@ -1,4 +1,4 @@
-# 안녕하세요, Java Backend Engineer 입니다 👋
+# 안녕하세요, Backend Engineer 입니다 👋
 
 ## 🛠 기술 스택
 **Backend**: Java · Spring Boot · Kotlin · JPA/Hibernate · Kafka · Elasticsearch  
