@@ -90,6 +90,7 @@
 |---|---|---|
 | 🌐 Homepage | 메인 서비스 | [lemuel.co.kr](https://www.lemuel.co.kr/) |
 | 🚀 ArgoCD | GitOps 배포 | [argocd.lemuel.co.kr](https://argocd.lemuel.co.kr/) |
+| 🔎 K8s | 대시보드 | [dashboard.lemuel.co.kr](https://dashboard.lemuel.co.kr/) |
 | 📊 Grafana | 메트릭 모니터링 | [grafana.lemuel.co.kr](https://grafana.lemuel.co.kr/) |
 | 🔎 Kibana | 로그 분석 | [kibana.lemuel.co.kr](https://kibana.lemuel.co.kr/) |
 
@@ -99,8 +100,9 @@
 
 - **[settlement](https://github.com/MyoungSoo7/settlement)** — 주문·결제·정산·승인 시스템. *헥사고날 아키텍처 · Transactional Outbox · Triple Idempotency · ArchUnit* 으로 경계를 컴파일러처럼 강제
 - **[approval](https://github.com/MyoungSoo7/approval)** — 결재 승인 시스템 (Kotlin · Spring Boot 3.5 · PostgreSQL)
+- **[sns](https://github.com/MyoungSoo7/approval)** — 결재 승인 시스템 (Kotlin · Spring Boot 3.5 · PostgreSQL)
 - **[pharmacy-recommend](https://github.com/MyoungSoo7/pharmacy-recommend)** — 약국 추천 (Java 17 · Spring Boot 3.2 · DDD · Redis)
-- **[shopping-lowprice](https://github.com/MyoungSoo7/shopping-lowprice)** — 저가 쇼핑 (Spring Boot · JPA · Scheduler · Spring Security)
+- **[shopping-lowprice](https://github.com/MyoungSoo7/sns-portfolio)** — 저가 쇼핑 (Spring Boot · JPA · Scheduler · Spring Security)
 
 ---
 
