@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 이명수입니다 (MyoungSoo7)
+# 👋 안녕하세요, 임명수입니다 (MyoungSoo7)
 
 ### 백엔드 · 인프라 엔지니어 &nbsp;|&nbsp; *직접 만들고, 직접 굴리는* 개발자
 
@@ -11,7 +11,6 @@
 
 [![Blog](https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://MyoungSoo7.github.io/)
 [![Homepage](https://img.shields.io/badge/lemuel.co.kr-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lemuel.co.kr/)
-[![Email](https://img.shields.io/badge/jinsim37@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinsim37@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=MyoungSoo7&style=for-the-badge&color=brightgreen)
 
 </div>
