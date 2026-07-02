@@ -5,17 +5,5 @@
 **Frontend**: Next.js · React · TypeScript  
 **DB**: PostgreSQL · Redis · MySQL  
 **Monitoring**: Prometheus · Grafana · Micrometer  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes)](https://skillicons.dev)
-## 🔥 주요 프로젝트
-
-| 프로젝트 | 설명 | 기술 | 링크 |
-|---------|------|------|------|
-| **Settlement MSA** | 이커머스 정산 플랫폼 (MSA 4모듈) | Spring Boot  + Kafka + ES | [jen.lemuel.co.kr](https://jen.lemuel.co.kr) |
-| **AI 검색** | Spring AI 기반 자연어 상품 검색 및 RAG 시스템 | Spring Boot  + Next.js | [chat.lemuel.co.kr](https://chat.lemuel.co.kr) |
-| **ASAT** | Web Audio API 기반 적응형 청각 훈련 플랫폼 | Spring Boot  + Web Audio API | [eln.lemuel.co.kr](https://eln.lemuel.co.kr) |
-
-## 📊 인프라
-
-6대 우분투 서버 + K3s 클러스터로 서비스 운영 중    
 
  
