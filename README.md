@@ -35,20 +35,6 @@
 | 🔎 Kibana | 로그 분석 | [kibana.lemuel.co.kr](https://kibana.lemuel.co.kr/) |
 <br></br>
 
-
-## 📊 By the Numbers
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| **6** nodes | **40+** microservices | **19** public domains |
-| K3s 클러스터 | 60 namespaces · 188 pods | 100% 자체 도메인 |
-| **100%** on-prem | **18+** ArgoCD apps | **15M+** log docs |
-| 클라우드 비용 $0 | GitOps 자동배포 | ELK 실시간 색인 |
-
-</div>
-
 > 규모(scale)는 위 표, 임팩트(impact)는 아래 — *"문제 → 결과"* 로.
 
 **⚡ Impact Highlights**
