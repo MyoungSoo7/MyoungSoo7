@@ -2,10 +2,10 @@
 
 # 👋 안녕하세요, 임명수입니다 
 
-### 백엔드 · 인프라 엔지니어 &nbsp;|&nbsp; *직접 만들고, 직접 굴리는* 개발자
+### 백엔드 · 인프라 엔지니어 &nbsp;|&nbsp; 
 
-집에 **6노드 K3s 클러스터**를 세워 두고 그 위에서 서비스를 운영합니다.<br/>
-헥사고날 아키텍처와 이벤트 기반 MSA, 그리고 GitOps로 *"코드부터 프로덕션까지"* 를 손으로 만져 봅니다.
+**6노드 K3s 클러스터**를 세워 두고 그 위에서 서비스를 운영합니다.<br/>
+클린 아키텍처와 이벤트 기반 MSA, 그리고 GitOps로 *"코드부터 프로덕션까지"* 를 손으로 만져 봅니다.
 
 <br/>
 
@@ -24,58 +24,12 @@
 - 🔁 **GitOps(ArgoCD)** 로 push 한 번에 프로덕션까지 자동 배포되는 파이프라인을 굴립니다
 - 📈 **Prometheus · Grafana · ELK** 로 관측(observability)을 3층으로 쌓았습니다
 - ✍️ 배운 것은 [**기술 블로그**](https://MyoungSoo7.github.io/)에 정리합니다
-
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-**Architecture**
-
-![Hexagonal](https://img.shields.io/badge/Hexagonal-FF6B6B?style=flat-square&logo=buffer&logoColor=white)
-![MSA](https://img.shields.io/badge/MSA-4A90D9?style=flat-square&logo=apachespark&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-8E44AD?style=flat-square&logo=amazonsqs&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-2C3E50?style=flat-square&logo=domino&logoColor=white)
-
-**Infra & DevOps**
-
-![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Data & Observability**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-## 🏠 Homelab — *내 손으로 만든 프로덕션*
-
-> 클라우드에 카드를 긋는 대신, **집에 클러스터를 세웠습니다.** 배포·모니터링·장애 대응을 전부 직접.
-
+## 🏠 k3s 클러스터
 ```
-┌─ Homelab K3s Cluster ────────────────────────────────┐
-│  🖥  Nodes        6 / 6 Ready  (노트북 · 맥미니 · 데스크탑) │
+┌─ K3s Cluster ────────────────────────────────┐
+│  🖥  Nodes        6 / 6 Ready                             │
 │  📦  Namespaces   60                                     │
 │  🧩  Pods         330+                                   │
 │  🚀  Delivery     GitOps (ArgoCD) · GitHub Actions       │
