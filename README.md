@@ -4,14 +4,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MyoungSoo7&style=for-the-badge&color=brightgreen)
 </div>
 
-<br></br>
-## 🧑‍💻 About
-- 🏗️ **클린 아키텍처 · DDD · 이벤트 기반 MSA** 로 시스템의 경계를 설계합니다
-- 🏠 집에서 **6대의 이기종 머신**(노트북·맥미니·데스크탑)으로 **K3s 클러스터**를 운영합니다
-- 🔁 **GitOps(ArgoCD)** 로 push 한 번에 프로덕션까지 자동 배포되는 파이프라인을 굴립니다
-- 📈 **Prometheus · Grafana · ELK** 로 관측(observability)을 3층으로 쌓았습니다
-<br></br>
-
 ## 🏠 k3s 클러스터
 ```
 ┌─ K3s Cluster ────────────────────────────────┐
