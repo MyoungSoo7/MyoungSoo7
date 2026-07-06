@@ -15,7 +15,6 @@
 │  🌐  Ingress      Cloudflare Tunnel (외부 IP 없이 공개)    │
 └──────────────────────────────────────────────────────┘
 ```
-<br></br>
 **Live Services**
 
 | 서비스 | 역할 | 링크 |
@@ -25,7 +24,6 @@
 | 🔎 K8s | 대시보드 | [dashboard.lemuel.co.kr](https://dashboard.lemuel.co.kr/) |
 | 📊 Grafana | 메트릭 모니터링 | [grafana.lemuel.co.kr](https://grafana.lemuel.co.kr/) |
 | 🔎 Kibana | 로그 분석 | [kibana.lemuel.co.kr](https://kibana.lemuel.co.kr/) |
-<br></br>
 
 > 규모(scale)는 위 표, 임팩트(impact)는 아래 — *"문제 → 결과"* 로.
 
