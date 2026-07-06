@@ -13,7 +13,6 @@
 - 🏠 집에서 **6대의 이기종 머신**(노트북·맥미니·데스크탑)으로 **K3s 클러스터**를 운영합니다
 - 🔁 **GitOps(ArgoCD)** 로 push 한 번에 프로덕션까지 자동 배포되는 파이프라인을 굴립니다
 - 📈 **Prometheus · Grafana · ELK** 로 관측(observability)을 3층으로 쌓았습니다
-- ✍️ 배운 것은 [**기술 블로그**](https://MyoungSoo7.github.io/)에 정리합니다
 ---
 
 ## 🏠 k3s 클러스터
@@ -66,7 +65,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 - **[settlement](https://github.com/MyoungSoo7/settlement)** — 주문·결제·정산·승인 시스템. *헥사고날 아키텍처 · Transactional Outbox · Triple Idempotency · ArchUnit* 으로 경계를 컴파일러처럼 강제
 - **[approval](https://github.com/MyoungSoo7/approval)** — 결재 승인 시스템 (Kotlin · Spring Boot 3.5 · PostgreSQL)
 - **[sns](https://github.com/MyoungSoo7/approval)** — sns 시스템 (Java · Spring Boot 2.7 · Kafka)
@@ -86,12 +84,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ✍️ 배운 것은 글로 남깁니다 → [**MyoungSoo7.github.io**](https://MyoungSoo7.github.io/)
-
-*"직접 만들고, 직접 굴리고, 직접 정리한다."*
-
-</div>
