@@ -1,24 +1,14 @@
 <div align="center">
 
-# 👋 안녕하세요, 임명수입니다 
-
-### 백엔드 · 인프라 엔지니어 &nbsp;|&nbsp; 
-
+# 👋 안녕하세요, 백엔드 · 인프라 엔지니어 입니다 
 **6노드 K3s 클러스터**를 세워 두고 그 위에서 서비스를 운영합니다.<br/>
 클린 아키텍처와 이벤트 기반 MSA, 그리고 GitOps로 *"코드부터 프로덕션까지"* 를 손으로 만져 봅니다.
-
 <br/>
-
-[![Blog](https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://MyoungSoo7.github.io/)
-[![Homepage](https://img.shields.io/badge/lemuel.co.kr-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lemuel.co.kr/)
 ![Profile Views](https://komarev.com/ghpvc/?username=MyoungSoo7&style=for-the-badge&color=brightgreen)
-
 </div>
 
 ---
-
 ## 🧑‍💻 About
-
 - 🏗️ **클린 아키텍처 · DDD · 이벤트 기반 MSA** 로 시스템의 경계를 설계합니다
 - 🏠 집에서 **6대의 이기종 머신**(노트북·맥미니·데스크탑)으로 **K3s 클러스터**를 운영합니다
 - 🔁 **GitOps(ArgoCD)** 로 push 한 번에 프로덕션까지 자동 배포되는 파이프라인을 굴립니다
