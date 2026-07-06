@@ -73,8 +73,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=MyoungSoo7&theme=tokyonight&hide_border=true)
-</div>
+
 
