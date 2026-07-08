@@ -6,14 +6,14 @@
 
 ## 🏠 k3s 클러스터
 ```
-┌─ K3s Cluster ────────────────────────────────┐
-│  🖥  Nodes        6 / 6 Ready                             │
-│  📦  Namespaces   60                                     │
-│  🧩  Pods         330+                                   │
-│  🚀  Delivery     GitOps (ArgoCD) · GitHub Actions       │
-│  📊  Observability Prometheus · Grafana · ELK            │
-│  🌐  Ingress      Cloudflare Tunnel (외부 IP 없이 공개)    │
-└──────────────────────────────────────────────────────┘
+┌─ K3s Cluster   ────────────────────────────────────────────────                
+│  🖥  Nodes        6 / 6 Ready                             
+│  📦  Namespaces   60                                     
+│  🧩  Pods         330+                                   
+│  🚀  Delivery     GitOps (ArgoCD) · GitHub Actions       
+│  📊  Observability Prometheus · Grafana · ELK            
+│  🌐  Ingress      Cloudflare Tunnel (외부 IP 없이 공개)   
+└────────────────────────────────────────────────────────────────
 ```
 
 **Live Services**
