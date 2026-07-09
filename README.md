@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 안녕하세요, 백엔드 · DEVOPS 엔지니어 입니다 ![Profile Views](https://komarev.com/ghpvc/?username=MyoungSoo7&style=for-the-badge&color=brightgreen)
+# 👋 안녕하세요, 서버 엔지니어 입니다 ![Profile Views](https://komarev.com/ghpvc/?username=MyoungSoo7&style=for-the-badge&color=brightgreen)
 
 </div>
 
