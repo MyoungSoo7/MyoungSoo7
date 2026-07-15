@@ -21,8 +21,7 @@
 | 서비스 | 역할 | 링크 |
 |---|---|---|
 | 🌐 Homepage | 메인 서비스 | [lemuel.co.kr](https://www.lemuel.co.kr/) |
-| 🌐 Homepage | 정산 서비스 | [jen.co.kr](https://jen.lemuel.co.kr/) |
-| 🌐 Homepage | 이머커스 AI 챗 서비스 | [chat.co.kr](https://chat.lemuel.co.kr/) |
+| 🌐 Homepage | 정산/대출/투자/금융 서비스 | [jen.co.kr](https://jen.lemuel.co.kr/) | 
 | 🌐 Homepage | 청각재활 서비스 | [eln.co.kr](https://eln.lemuel.co.kr/) |
 | 🚀 ArgoCD | GitOps 배포 | [argocd.lemuel.co.kr](https://argocd.lemuel.co.kr/) |
 | 🔎 K8s | 대시보드 | [dashboard.lemuel.co.kr](https://dashboard.lemuel.co.kr/) |
