@@ -19,17 +19,10 @@
 **Live Services**
 
 | 서비스 | 역할 | 링크 |
-|---|---|---|
-| 🌐 Homepage | 메인 서비스 | [lemuel.co.kr](https://www.lemuel.co.kr/) |
+|---|---|---| 
 | 🌐 Homepage | 정산/대출/투자/금융 서비스 | [jen.co.kr](https://jen.lemuel.co.kr/) | 
-| 🌐 Homepage | 청각재활 서비스 | [eln.co.kr](https://eln.lemuel.co.kr/) |
-| 🚀 ArgoCD | GitOps 배포 | [argocd.lemuel.co.kr](https://argocd.lemuel.co.kr/) |
-| 🔎 K8s | 대시보드 | [dashboard.lemuel.co.kr](https://dashboard.lemuel.co.kr/) |
-| 📊 Grafana | 메트릭 모니터링 | [grafana.lemuel.co.kr](https://grafana.lemuel.co.kr/) |
-| 🔎 Kibana | 로그 분석 | [kibana.lemuel.co.kr](https://kibana.lemuel.co.kr/) |
-
+| 🌐 Homepage | 청각재활 서비스 | [eln.co.kr](https://eln.lemuel.co.kr/) | 
 **⚡ Impact Highlights**
-
 - 🔥 **장애 대응** — velero node-agent `OOMKilled 44회` 반복 → 메모리/병렬도 튜닝으로 **0회** 안정화
 - 🚀 **배포 자동화** — 수동 배포 → **ArgoCD GitOps** 전환, `git push` 한 번으로 프로덕션까지 자동 반영
 - 🛡️ **결제 무결성** — Transactional Outbox + **Triple Idempotency** (L1 outbox / L2 processed / L3 DB unique) 로 at-least-once 메시징에서 중복 처리 차단
