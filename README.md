@@ -22,6 +22,7 @@
 |---|---|---| 
 | 🌐 Homepage | 정산/대출/투자/금융 서비스 | [jen.co.kr](https://jen.lemuel.co.kr/) | 
 | 🌐 Homepage | 청각재활 서비스 | [eln.co.kr](https://eln.lemuel.co.kr/) | 
+
 **⚡ Impact Highlights**
 - 🔥 **장애 대응** — velero node-agent `OOMKilled 44회` 반복 → 메모리/병렬도 튜닝으로 **0회** 안정화
 - 🚀 **배포 자동화** — 수동 배포 → **ArgoCD GitOps** 전환, `git push` 한 번으로 프로덕션까지 자동 반영
