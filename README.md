@@ -66,7 +66,7 @@
 
 **서비스 구성 (22종)** — Java 15 · Kotlin 2(`notification`, `reconciliation`) · Go 2(`market-stream`, `payment-webhook`) · Python 3(`screening-backtest`, `anomaly`, `forecast`)
 언어는 도메인 특성에 맞춰 골랐습니다. 실시간 시세 스트리밍·웹훅 수신은 Go, 예측·백테스트·이상탐지는 Python, 트랜잭션 경계가 중요한 코어는 Java/Kotlin.
-※ 폴리글랏 7종은 아직 MVP 단계이고 `reconciliation` 은 스켈레톤입니다 — 과장 없이 적어 둡니다.
+※ 폴리글랏 7종은 아직 MVP 단계이고 `reconciliation` 은 스켈레톤입니다
 
 **품질 게이트** — JaCoCo LINE 커버리지 **90%** 미만이면 빌드 실패(핵심 도메인 INSTRUCTION 80%), `check` 가 커버리지 검증에 의존.
 테스트 클래스 758개 · 전체 빌드 3,534 테스트 통과 · ADR 29건 (리포 `STATUS.md` 기준, 재검증 커맨드를 문서에 함께 기재).
