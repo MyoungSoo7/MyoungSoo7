@@ -35,7 +35,7 @@
 > 📋 **전체 서비스 인벤토리 → [www.lemuel.co.kr](https://www.lemuel.co.kr)**
 > 클러스터에서 돌고 있는 100개 서비스를 네임스페이스·공개 URL·상태와 함께 한 페이지에 표시합니다.
 
-## 🧩 메인 프로젝트 — [settlement](https://github.com/MyoungSoo7/settlement)
+## 🧩 메인 프로젝트 
 
 **이커머스 주문 → 결제 → 셀러 정산 → 복식부기 원장**을 축으로 대출·투자·계정계·기업분석까지 확장한 **폴리글랏 모노-MSA**.
 모놀리스 → 바운디드 컨텍스트 분리 → 이벤트 드리븐 → DB-per-service + CQRS 프로젝션 순으로 진화시켰고,
