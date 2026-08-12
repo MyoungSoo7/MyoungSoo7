@@ -78,7 +78,7 @@ CI 는 `paths-filter` 로 변경 모듈만 빌드하고, `harness-guard` 워크�
 | ----------------- | ----------------------------------- | ----------------------------------------------- |
 | 💰 Jen Settlement | 정산·대출·투자·금융 (메인 프로젝트) | [jen.lemuel.co.kr](https://jen.lemuel.co.kr/)   |
 | 👂 ASAT           | 청각 재활 훈련                      | [eln.lemuel.co.kr](https://eln.lemuel.co.kr/)   |
-| 🎮 Lemuel XR      | 성경 기반 감정 회복 서사 게임       | [xr.lemuel.co.kr](https://xr.lemuel.co.kr/)     |
+| 🎮 Lemuel XR      | 성경 기반 감정 회복 서사 게임(만드는중) | [xr.lemuel.co.kr](https://xr.lemuel.co.kr/)     |
 
 ## ⚡ Impact Highlights
 
