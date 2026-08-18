@@ -14,7 +14,7 @@
 
 지금 돌아가는 서비스 전체 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다. 네임스페이스·공개 URL·상태가 같이 보입니다.
 
-## 주로 붙잡고 있는 것 — jen
+## 메인 프로젝트 
 이커머스 주문 → 결제 → 셀러 정산 → 복식부기 원장이 축이고, 거기서 대출·투자·계정계·기업분석까지 늘렸습니다. 시작은 모놀리스였고 바운디드 컨텍스트로 쪼개고, 이벤트 드리븐으로 바꾸고, CQRS 프로젝션까지 왔습니다. [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) 에서 돌고 있고 Deployment 22개입니다.
 아키텍처는 확장에 유리한 헥사고날인데, 말로만 지키는 경계는 반드시 무너져서 ArchUnit 으로 CI 에서 막습니다. 
 
@@ -28,7 +28,7 @@
 커버리지는 LINE 90% 밑으로 내려가면 빌드가 깨집니다(핵심 도메인은 INSTRUCTION 80%). 테스트 클래스 758개, 전체 빌드 3,534개, ADR 29건. 그리고 `harness-guard` 워크플로가 문서에 적힌 수치와 실제 코드를 대조합니다. 문서는 손대지 않으면 언젠가 반드시 거짓말이 되기 때문입니다.
 주로 쓰는 것: Java 25 · Spring Boot 4.0.4 · Spring Cloud 2025.1 · Gradle 9 (Kotlin DSL) · PostgreSQL 17 (Flyway 마이그레이션 240개) · Elasticsearch 8.17(Nori) · Redis 7 · Kafka · React 19 + Vite + TypeScript · Testcontainers · SonarCloud · Snyk.
 
-## 돌아가는 것들
+## 이외 프로젝트
 
 - [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) — 정산·대출·투자
 - [eln.lemuel.co.kr](https://eln.lemuel.co.kr/) — 청각 재활 훈련
