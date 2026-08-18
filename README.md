@@ -29,8 +29,6 @@
 주로 쓰는 것: Java 25 · Spring Boot 4.0.4 · Spring Cloud 2025.1 · Gradle 9 (Kotlin DSL) · PostgreSQL 17 (Flyway 마이그레이션 240개) · Elasticsearch 8.17(Nori) · Redis 7 · Kafka · React 19 + Vite + TypeScript · Testcontainers · SonarCloud · Snyk.
 
 ## 이외 프로젝트
-
-- [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) — 정산·대출·투자
 - [eln.lemuel.co.kr](https://eln.lemuel.co.kr/) — 청각 재활 훈련
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련
 
