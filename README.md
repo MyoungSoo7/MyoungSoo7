@@ -1,7 +1,7 @@
  
 ## 클러스터
-6개 노드 74 vCPU / 122 GiB. K3s v1.35.4, 네임스페이스 55개, Deployment·StatefulSet 123개에 DaemonSet 6개, CronJob 13개. 파드는 대략 150개, 배포는 ArgoCD (Application 64개). 
-지금 돌아가는 서비스 전체 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다. 네임스페이스·공개 URL·상태가 같이 보입니다.
+k3s에 6개 노드(74 vCPU / 122 GiB) - 네임스페이스 55개, Deployment·StatefulSet 123개에 DaemonSet 6개, CronJob 13개. 파드는 대략 150개, 배포는 ArgoCD (Application 64개). 
+지금 돌아가는 서비스 전체 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다 
 
 ## 메인 프로젝트 
 이커머스 주문 → 결제 → 셀러 정산 → 복식부기 원장이 축이고, 거기서 대출·투자·계정계·기업분석까지 늘렸습니다. 시작은 모놀리스였고 바운디드 컨텍스트로 쪼개고, 이벤트 드리븐으로 바꾸고, CQRS 프로젝션까지 왔습니다. [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) 에서 돌고 있고 Deployment 22개입니다.
