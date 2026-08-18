@@ -1,17 +1,6 @@
  
 ## 클러스터
-
-| 노드      | 역할                                  | vCPU / RAM  |
-| --------- | ------------------------------------- | ----------- |
-| `lemuel`  | control-plane · etcd voter            | 4 / 32 GiB  |
-| `ilwon`   | control-plane · etcd voter · 스토리지 | 12 / 32 GiB |
-| `solomon` | control-plane · etcd voter            | 4 / 15 GiB  |
-| `isagal`  | worker (주력 컴퓨트)                  | 40 / 15 GiB |
-| `louise`  | worker                                | 8 / 16 GiB  |
-| `david`   | worker                                | 6 / 15 GiB  |
-
-합쳐서 74 vCPU / 122 GiB. K3s v1.35.4, 네임스페이스 55개, Deployment·StatefulSet 123개에 DaemonSet 6개, CronJob 13개. 파드는 대략 150개, 배포는 ArgoCD (Application 64개). 
-
+6개 노드 74 vCPU / 122 GiB. K3s v1.35.4, 네임스페이스 55개, Deployment·StatefulSet 123개에 DaemonSet 6개, CronJob 13개. 파드는 대략 150개, 배포는 ArgoCD (Application 64개). 
 지금 돌아가는 서비스 전체 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다. 네임스페이스·공개 URL·상태가 같이 보입니다.
 
 ## 메인 프로젝트 
