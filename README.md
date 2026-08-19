@@ -33,5 +33,4 @@ LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로�
 
 - [eln.lemuel.co.kr](https://eln.lemuel.co.kr/) — 청각 재활 훈련
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련
-
-혼자 만들더라도 다음 사람이 읽고 이어받을 수 있게 남기려고 합니다. ADR 로 결정과 이유를 적고, 문서의 수치에는 다시 세는 명령을 같이 씁니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
+ ADR 로 결정과 이유를 적고, 문서의 수치에는 다시 세는 명령을 같이 씁니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
