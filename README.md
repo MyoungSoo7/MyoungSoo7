@@ -34,9 +34,9 @@ LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로�
 게이트는 베스트 프랙티스 목록이 아니라 대부분 한 번 터진 사건에서 나왔습니다. 체크 예외에 롤백하지 않는 `@Transactional`, 프록시를 안 타는 self-invocation, 같은 `group-id` 를 든 컨슈머, 파티션 수를 코드 밖에서 바꾸는 일 — 전부 컴파일도 테스트도 통과하고 운영에서만 틀리는 것들입니다.
 어떻게 구성했고 어디가 약한지는 [블로그](https://myoungsoo7.github.io/2026/08/18/what-a-harness-score-of-8-6-actually-measures/)에 근거와 함께 적어 뒀습니다.
 
-## 이외 프로젝트
-
+## 이외 프로젝트 
 - [asat.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련
+- [dart.lemuel.co.kr](https://dart.lemuel.co.kr/) — 쇼핑몰
  ADR 로 결정과 이유를 적고, 문서의 수치에는 다시 세는 명령을 같이 씁니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
 
