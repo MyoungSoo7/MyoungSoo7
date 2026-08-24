@@ -1,3 +1,4 @@
+[![블로그 방문자](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flemuel.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count_unique&label=%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=blue&style=flat-square)](https://myoungsoo7.github.io/)
 서버 여섯 대로 K3s 클러스터를 직접 굴리고, 그 위에 이커머스 정산 MSA 를 올려 운영합니다. 인프라 배선부터 도메인 코드까지 한 사람이 세우고, 무너지지 않게 게이트로 지키는 쪽 일을 합니다.
 
 ## 클러스터
@@ -31,8 +32,7 @@ LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로�
 
 ## 이외 프로젝트
 
-- [eln.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련
+- [eln.lemuel.co.kr](https://eln.lemuel.co.kr/) — 청각 재활 훈련
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련
  ADR 로 결정과 이유를 적고, 문서의 수치에는 다시 세는 명령을 같이 씁니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
 
-[![블로그 방문자](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flemuel.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count_unique&label=%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=blue&style=flat-square)](https://myoungsoo7.github.io/)
