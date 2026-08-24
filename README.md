@@ -1,3 +1,5 @@
+![프로필 방문](https://komarev.com/ghpvc/?username=MyoungSoo7&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EB%B0%A9%EB%AC%B8&color=0e75b6&style=flat)
+
 서버 여섯 대로 K3s 클러스터를 직접 굴리고, 그 위에 이커머스 정산 MSA 를 올려 운영합니다. 인프라 배선부터 도메인 코드까지 한 사람이 세우고, 무너지지 않게 게이트로 지키는 쪽 일을 합니다.
 
 ## 클러스터
