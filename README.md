@@ -14,21 +14,6 @@
 ## 메인 프로젝트
 
 주문 → 결제 → 셀러 정산 → 복식부기 원장이 축이고, 거기서 대출·투자·계정계·기업분석까지 늘렸습니다. [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) 에서 Deployment 18개 + StatefulSet 2개로 돌고 있습니다. 아키텍처는 헥사고날인데, 말로만 지키는 경계는 반드시 무너지니 ArchUnit 으로 CI 에서 막습니다.
-
-### 쪼갠 다음에 다시 합쳤습니다
-
-모놀리스에서 바운디드 컨텍스트로 쪼개고, 이벤트 드리븐과 CQRS 프로젝션까지 갔습니다. 그리고 쪼갠 경계 중 상당수를 도로 합쳤습니다.
-
-근거는 취향이 아니라 숫자였습니다. 두 서비스 사이의 이벤트 간선과 코드 참조를 세어 보니 0인 것들이 있었습니다. 결합도가 0인 경계는 지킬 게 없습니다. 유지비만 냅니다.
-
-- **ADR 0038** — financial-statements · economics · market · common-data 를 `external-data-service` 로. 넷 다 쓰기 오너십이 외부 기관에 있는 read-only 조회였고 이벤트 계약이 0이었습니다
-- **0039 · 0040** — loan + investment 를 `finance-service` 로, deposit 과 ai-service 를 `settlement-service` 로. 대출과 투자는 "검증된 정산 실적으로 자금을 조달한다" 는 한 유스케이스의 두 경로였고, 챗봇이 답하던 것도 결국 정산 일정·수수료·지급·홀드백이었습니다
-- **0041 ~ 0043** — 같은 기준으로 notification → operation, organization → order, board·education → operation
-- **0044** — company-service 는 3-way 로 해체했습니다. 원자료는 external-data 로, 판정과 문서함은 finance 의 reputation 슬라이스로
-- **0046** — 반대로 external-data 는 합치지 **않기로** 했습니다. 흡수하자는 근거가 "소비자가 finance 하나뿐" 이었는데, 실측해 보니 프론트엔드가 게이트웨이를 통해 직접 소비하고 있었습니다. 전제 자체가 사실이 아니었습니다
-
-그래서 지금 `settings.gradle.kts` 가 선언하는 모듈은 6개입니다. `order` · `settlement` · `finance` · `external-data` · `gateway` · `operation` 에 `shared-common` 이 composite build 로 붙어, 로컬에서는 included build 로 치환되고 배포에는 publish 된 아티팩트가 나갑니다.
-
 합쳐도 슬라이스 경계는 살아 있습니다. 코드는 `github.lms.lemuel.deposit`, `github.lms.lemuel.ai` 같은 슬라이스로 그대로 남고, `DepositArchitectureTest` · `AiArchitectureTest` · `FinanceArchitectureTest` 가 계속 강제합니다. 프로세스를 합친 것이지 경계를 버린 게 아닙니다.
 
 ### 이벤트와 정합성
