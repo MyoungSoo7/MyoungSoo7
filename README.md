@@ -11,7 +11,7 @@
 관측은 Prometheus · Grafana · Tempo, 로그는 fluent-bit → Elasticsearch. 메시징은 Strimzi Kafka 4.2.0(KRaft dual-role)에 업무 토픽 47개와 DLT 17개.
 시크릿은 SOPS + age 로 암호화해서 커밋하니 리포에 평문이 없고, 밖으로 나가는 트래픽은 포트포워딩 없이 Cloudflare Tunnel 만 지납니다. 지금 돌아가는 서비스 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다.
 
-## 메인 프로젝트
+## 메인 프로젝트( 5개의 msa 및 go, python 폴리글랏 서비스)
 
 주문 → 결제 → 셀러 정산 → 복식부기 원장이 축이고, 거기서 대출·투자·계정계·기업분석까지 늘렸습니다. [jen.lemuel.co.kr](https://jen.lemuel.co.kr/) 에서 Deployment 18개 + StatefulSet 2개로 돌고 있습니다. 아키텍처는 헥사고날인데, 말로만 지키는 경계는 반드시 무너지니 ArchUnit 으로 CI 에서 막습니다.
 합쳐도 슬라이스 경계는 살아 있습니다. 코드는 `github.lms.lemuel.deposit`, `github.lms.lemuel.ai` 같은 슬라이스로 그대로 남고, `DepositArchitectureTest` · `AiArchitectureTest` · `FinanceArchitectureTest` 가 계속 강제합니다. 프로세스를 합친 것이지 경계를 버린 게 아닙니다.
