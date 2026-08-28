@@ -3,8 +3,6 @@
 [![블로그 글](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmyoungsoo7.github.io%2Fsearch.json&query=%24.length&label=%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B8%80&color=blue&style=flat-square)](https://myoungsoo7.github.io/)
 [![공개 리포](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMyoungSoo7&query=%24.public_repos&label=%EA%B3%B5%EA%B0%9C%20%EB%A6%AC%ED%8F%AC&color=blue&style=flat-square&cacheSeconds=3600)](https://github.com/MyoungSoo7?tab=repositories)
 
-서버 여섯 대로 K3s 클러스터를 굴리고, 그 위에 이커머스 정산 MSA 를 올려 운영합니다. 인프라 배선부터 도메인 코드까지 혼자 세우고, 무너지지 않게 게이트로 지킵니다.
-
 ## 클러스터
 노드 6대에 서비스를 운영중입니다. 지금 돌아가는 서비스 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다.
 
