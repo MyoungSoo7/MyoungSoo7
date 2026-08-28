@@ -44,11 +44,12 @@ LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로�
 
 어떻게 구성했고 어디가 약한지는 [블로그](https://myoungsoo7.github.io/2026/08/18/what-a-harness-score-of-8-6-actually-measures/)에 근거와 함께 적어 뒀습니다.
 
-## 그 밖에
-- [news.lemuel.co.kr](https://asat.lemuel.co.kr/) — 뉴스
-- [sns.lemuel.co.kr](https://asat.lemuel.co.kr/) — sns
-- [asat.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련
-- [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련
-- [shop.lemuel.co.kr](https://shop.lemuel.co.kr/) — 쇼핑몰
+## 그 밖에(Harness Engineering)
+- [asat.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련(jnd 알고리즘)
+- [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련(vr)
+- [shop.lemuel.co.kr](https://shop.lemuel.co.kr/) — 쇼핑몰(이커머스 도메인)
+## Before Claude(original coding)
+- [news.lemuel.co.kr](https://asat.lemuel.co.kr/) — 뉴스(pyton)
+- [sns.lemuel.co.kr](https://asat.lemuel.co.kr/) — sns(kafka)
 
 결정과 이유는 ADR 로 적고, 문서의 수치에는 다시 세는 명령을 같이 붙입니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
