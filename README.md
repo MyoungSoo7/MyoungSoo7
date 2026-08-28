@@ -10,7 +10,7 @@
 지금 돌아가는 서비스 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다.
 
 ## 메인 프로젝트( 5개의 java 및 go, python 7개의 msa 폴리글랏 서비스)
-[settlement.lemuel.co.kr](https://settlement.lemuel.co.kr/) 에서 결과적 일관성을 보장하는 분산 트랜잭션 처리를 구축했습니다.
+[settlement.lemuel.co.kr](https://settlement.lemuel.co.kr/) 에서 정산시스템에 결과적 일관성을 보장하는 분산 트랜잭션 처리를 구축했습니다.
  
 ## AI 에이전트를 이 리포에 붙이면서 만든 것
 LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로는 부족합니다. 문서는 읽힐 때도 있고 아닐 때도 있으니, 기계가 강제하는 층을 따로 만들었습니다.
