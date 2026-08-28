@@ -6,8 +6,7 @@
 서버 여섯 대로 K3s 클러스터를 굴리고, 그 위에 이커머스 정산 MSA 를 올려 운영합니다. 인프라 배선부터 도메인 코드까지 혼자 세우고, 무너지지 않게 게이트로 지킵니다.
 
 ## 클러스터
-노드 6대(74 vCPU / 122 GiB)에 네임스페이스 46개. Deployment 83 · StatefulSet 20 · DaemonSet 6 · CronJob 13, Running 파드 145개를 ArgoCD Application 60개를 운영중입니다.
-지금 돌아가는 서비스 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다.
+노드 6대에 서비스를 운영중입니다. 지금 돌아가는 서비스 목록은 [www.lemuel.co.kr](https://www.lemuel.co.kr) 에 한 페이지로 정리해 뒀습니다.
 
 ## 메인 프로젝트( 5개의 java 및 go, python 7개의 msa 폴리글랏 서비스)
 [settlement.lemuel.co.kr](https://settlement.lemuel.co.kr/) 에서 정산시스템에 결과적 일관성을 보장하는 분산 트랜잭션 처리를 구축했습니다.
