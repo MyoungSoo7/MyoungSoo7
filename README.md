@@ -12,10 +12,6 @@
 ## 메인 프로젝트( 5개의 java 및 go, python 7개의 msa 폴리글랏 서비스)
 [settlement.lemuel.co.kr](https://settlement.lemuel.co.kr/) 에서 정산시스템에 결과적 일관성을 보장하는 분산 트랜잭션 처리를 구축했습니다.
  
-## AI 에이전트를 이 리포에 붙이면서 만든 것
-LLM 에이전트한테 코드를 맡기려면 규칙을 문서로 적는 걸로는 부족합니다. 문서는 읽힐 때도 있고 아닐 때도 있으니, 기계가 강제하는 층을 따로 만들었습니다.
-어떻게 구성했고 한계는 무엇인가는 [블로그](https://myoungsoo7.github.io/2026/08/18/what-a-harness-score-of-8-6-actually-measures/)에 근거와 함께 적어 뒀습니다.
-
 ## 그 밖에(Harness Engineering)
 - [asat.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련(jnd 알고리즘)
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련(vr)
