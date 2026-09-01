@@ -17,4 +17,4 @@
 - [news.lemuel.co.kr](https://news.lemuel.co.kr/) — 뉴스(python)
 - [sns.lemuel.co.kr](https://sns.lemuel.co.kr/) — sns(kafka)
 
-결정과 이유는 ADR 로 적고, 문서의 수치에는 다시 세는 명령을 같이 붙입니다. 그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리합니다.
+그때그때 배운 건 [블로그](https://myoungsoo7.github.io/)에 정리해두었습니다.
