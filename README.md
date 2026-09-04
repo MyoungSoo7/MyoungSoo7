@@ -9,15 +9,13 @@
 ## 메인 프로젝트( 5개의 java 및 go, python 7개의 msa 폴리글랏 서비스)
 [settlement.lemuel.co.kr](https://settlement.lemuel.co.kr/) 에서 정산시스템에 결과적 일관성을 보장하는 분산 트랜잭션 처리를 구축했습니다.
 
-## Digital Twin
-- https://twinkit.lemuel.co.kr/
-- https://drain.lemuel.co.kr/
-- https://replay.lemuel.co.kr/
- 
-## Claude(Harness Engineering)
+## Harness Engineering
 - [asat.lemuel.co.kr](https://asat.lemuel.co.kr/) — 청각 재활 훈련(jnd 알고리즘)
 - [xr.lemuel.co.kr](https://xr.lemuel.co.kr/) — XR, 영적 훈련(vr)
 - [shop.lemuel.co.kr](https://shop.lemuel.co.kr/) — 쇼핑몰(이커머스 도메인)
+- [twinkit.lemuel.co.kr](https://twinkit.lemuel.co.kr) - 서울 지하철 2호선 운행 디지털 트윈
+- [drain.lemuel.co.kr](https://drain.lemuel.co.kr) - Kubernetes 노드 드레인 시뮬레이터
+- [replay.lemuel.co.kr](https://replay.lemuel.co.kr) - 원장 데이터 리플레이 트윈
 ## Original Coding
 - [news.lemuel.co.kr](https://news.lemuel.co.kr/) — 뉴스(python)
 - [sns.lemuel.co.kr](https://sns.lemuel.co.kr/) — sns(kafka)
